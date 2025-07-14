@@ -34,4 +34,7 @@ OCR Whisper AI คือโปรแกรม OCR แปลข้อความ
 - หรือเข้าชมช่อง YouTube ได้ที่  
   https://www.youtube.com/@GEEKGAMERTHAILAND
 
+ติดตามข้อมูลได้ที่เพจ
+https://www.facebook.com/profile.php?id=61578137469690
+
 จัดทำโดย Z3R0DA7
